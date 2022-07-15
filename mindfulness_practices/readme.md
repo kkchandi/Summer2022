@@ -13,8 +13,7 @@ I practice pranayam every morning for at least fifteen minutes. Check out [this 
 
 ## 5-4-3-2-1 Grounding Technique
 
- <img src="https://github.com/favicon.ico](https://user-images.githubusercontent.com/32143912/179278645-89577347-ad9f-4766-a4db-14db8958f4fc.png" width="150" height="150">
-
+<img src="https://user-images.githubusercontent.com/32143912/179278645-89577347-ad9f-4766-a4db-14db8958f4fc.png" width="150" height="150">
 
 Identify 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. 
 
