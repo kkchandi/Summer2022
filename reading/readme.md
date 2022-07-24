@@ -12,3 +12,5 @@
 | The Power  | 🔲 |
 | Diary of an Oxygen Thief  | ✅ |
 | Should I Stay Or Should I Go?  | ✅ |
+| Ugly Love | 🔲 |
+
