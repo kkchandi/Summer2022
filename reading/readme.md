@@ -3,6 +3,7 @@
 | Book Name  | Read? |
 | ------------- | ------------- |
 | Reclaim your Brain  | 〰️ |
+| The 48 Laws of Power | 〰️ |
 | The Happiness Hypothesis | ✅|
 | The Rosie Project | ✅ |
 | 101 Essays That Will Change the Way You Think  | 🔲 |
