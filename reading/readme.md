@@ -8,6 +8,7 @@
 | The Rosie Project | ✅ |
 | 101 Essays That Will Change the Way You Think  | 🔲 |
 | How the World Really Works  | 🔲 |
+| Ordinary Men  | 🔲 |
 | Unaccustomed Earth  | 🔲  |
 | The Art of War  | 🔲 |
 | The Power  | 🔲 |
