@@ -15,4 +15,6 @@
 | Diary of an Oxygen Thief  | ✅ |
 | Should I Stay Or Should I Go?  | ✅ |
 | Ugly Love | 🔲 |
-
+| One True Loves | 🔲 |
+| War Without Mercy | 🔲 |
+| Obedience to Authority | 🔲 |
